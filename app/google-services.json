@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "748365388202",
+    "project_id": "suitup-d5c42",
+    "storage_bucket": "suitup-d5c42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748365388202:android:b125e87b30ce18a06873d3",
+        "android_client_info": {
+          "package_name": "com.example.suitup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748365388202-cn0cu6mg22r6jtqlm3f40hefol9599jp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.suitup",
+            "certificate_hash": "c02d72d8e92da510bc25155553897ff548a1d6c5"
+          }
+        },
+        {
+          "client_id": "748365388202-ge4gdsgs67pml7o0t7useosib1ksknhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm01tBev1vck3RK_dhA3fH2h6H6VIpV2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748365388202-ge4gdsgs67pml7o0t7useosib1ksknhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
